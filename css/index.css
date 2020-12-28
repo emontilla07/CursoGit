@@ -8,4 +8,7 @@ h1 {
     font-weight: 100;
     font-size: 4rem;
     text-align: center;
+    border-bottom: 2px solid gray;
+    width: 80%;
+    margin: auto;
 }
