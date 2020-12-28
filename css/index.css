@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: black;
+    font-family: Helvetica;
+    font-weight: 100;
+    font-size: 4rem;
+    text-align: center;
+}
