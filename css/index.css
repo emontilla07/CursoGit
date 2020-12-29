@@ -12,3 +12,28 @@ h1 {
     width: 80%;
     margin: auto;
 }
+
+p {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 1rem;
+    color: gray
+}
+
+.btn-hello {
+    border: none;
+    background-color: green;
+    padding: 15px 32px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    display: inline;
+    margin-left: 900px;
+}
+
+.btn-hello:hover {
+    background-color: black;
+    color: white;
+}
